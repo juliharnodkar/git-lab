@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello git
+=======
+Hello Git
+Feature code
+>>>>>>> 6cd84b48f6b94bc3db60b86af8f16ca3e4dfcf32
+Feature code
